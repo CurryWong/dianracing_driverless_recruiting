@@ -1,0 +1,8 @@
+prefix=/home/currywong/dianracing_driverless_recruiting/wanghao1751166/dianracing_ros_wanghao/install
+
+Name: send_messages
+Description: Description of send_messages
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/currywong/dianracing_driverless_recruiting/wanghao1751166/dianracing_ros_wanghao/install/lib 
+Requires: 

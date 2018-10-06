@@ -1,0 +1,8 @@
+prefix=/home/currywong/dianracing_driverless_recruiting/wanghao1751166/dianracing_ros_wanghao/devel
+
+Name: do_math
+Description: Description of do_math
+Version: 0.0.0
+Cflags: -I/home/currywong/dianracing_driverless_recruiting/wanghao1751166/dianracing_ros_wanghao/devel/include
+Libs: -L/home/currywong/dianracing_driverless_recruiting/wanghao1751166/dianracing_ros_wanghao/devel/lib 
+Requires: 

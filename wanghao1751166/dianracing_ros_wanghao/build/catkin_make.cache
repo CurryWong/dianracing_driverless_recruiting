@@ -1,0 +1,2 @@
+do_math:send_messages
+-DCATKIN_DEVEL_PREFIX=/home/currywong/dianracing_driverless_recruiting/wanghao1751166/dianracing_ros_wanghao/devel -DCMAKE_INSTALL_PREFIX=/home/currywong/dianracing_driverless_recruiting/wanghao1751166/dianracing_ros_wanghao/install -G Unix Makefiles
